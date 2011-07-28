@@ -1,0 +1,4 @@
+channels:
+    Local:
+        type: sphere
+        radius: 10
