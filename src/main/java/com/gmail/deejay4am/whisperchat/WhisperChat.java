@@ -1,5 +1,8 @@
 /*
  * (c) 2011 4am
+ * 
+ * This is a test commit to see if github is wired up correctly. This code is not to be used for anything at all, you have no rights to it (yet).
+ * Once it's not a mess it will be given an open source license.
  */
 
 package com.gmail.deejay4am.whisperchat;
